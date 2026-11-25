@@ -1,3 +1,4 @@
+# Day 13 Lab — 2A202603220 - Trịnh Vinh Khánh
 <p align="center">
   <img src="docs/assets/hero.png" alt="Day 13 Lab: đọc point cloud VF và vẽ cuboid 3D đầu tiên" width="100%">
 </p>
